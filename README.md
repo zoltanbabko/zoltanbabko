@@ -67,8 +67,8 @@
 
 ---
 
-### 📊 Mes Stats GitHub
+### 📊 Mes Stats Github
 
-![Vos Stats](https://stats-zoltan.vercel.app/api?username=zoltanbabko&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://stats-zoltan.vercel.app/api/top-langs/?username=zoltanbabko&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github.com/zoltanbabko/zoltanbabko/blob/main/github-metrics.svg" alt="Metrics">
+</div>
